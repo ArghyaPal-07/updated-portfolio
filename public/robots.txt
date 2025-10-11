@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.shresthjindal.com
+
+# Sitemaps
+Sitemap: https://www.shresthjindal.com/sitemap.xml
