@@ -9,7 +9,7 @@
       "purpose": "maskable"
     },
     {
-      "src": "/og-image.png",
+      "src": "/og-image.png"k,
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
